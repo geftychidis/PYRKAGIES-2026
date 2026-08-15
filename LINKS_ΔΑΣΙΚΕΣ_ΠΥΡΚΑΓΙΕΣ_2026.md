@@ -411,7 +411,7 @@
 | — (ζωντανό) | Ελλάδα/Ευρώπη (επίσημο) | EFFIS / Copernicus | Welcome to EFFIS | https://effis.emergency.copernicus.eu/ | Κεντρική πύλη του Ευρωπαϊκού Συστήματος Πληροφόρησης Δασικών Πυρκαγιών. |
 | — (ζωντανό) | Ευρώπη (επίσημο portal) | EFFIS / Copernicus | Current Situation Viewer – EFFIS | https://forest-fire.emergency.copernicus.eu/apps/effis.csv/ | Ζωντανός χάρτης/θεατής τρέχουσας κατάστασης πυρκαγιών EFFIS για Ευρώπη-Ελλάδα. |
 | — (ζωντανό) | Ευρώπη | Mappr | Wildfires Across Europe in 2026: Mapping the Fires, the Deaths, and the Record Heat | https://www.mappr.co/europe-wildfires-map/ | Αναλυτικός χάρτης/επισκόπηση των πυρκαγιών του 2026 σε όλη την Ευρώπη. |
-| — (καθημερινό) | Ελλάδα/ΕΕ (προσωπ. πηγή) | Yutori Scout | «Forest Fire News Greece EU» — καθημερινές ειδοποιήσεις [Scout] (notifications@yutori.com) | https://scouts.yutori.com/d19e3cb9-3661-40b8-b3b3-fb8023c4f558 | Προσωπικός Scout του χρήστη· ειδοποιήσεις email με συνδέσμους πηγών (τροφοδοτεί τη συλλογή). |
+| — (καθημερινό) | Ελλάδα/ΕΕ (προσωπ. πηγή) | Yutori Scout | «Forest Fire News Greece EU» — καθημερινές ειδοποιήσεις [Scout] (notifications@yutori.com) | https://scouts.yutori.com/inbox/d19e3cb9-3661-40b8-b3b3-fb8023c4f558 | Προσωπικός Scout του χρήστη (inbox αναφορών)· ειδοποιήσεις email με συνδέσμους πηγών (τροφοδοτεί τη συλλογή). Απαιτεί σύνδεση — η αυτόματη άντληση γίνεται μέσω Gmail. |
 
 ---
 
